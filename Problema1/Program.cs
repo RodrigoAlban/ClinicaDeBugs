@@ -1,16 +1,14 @@
-﻿string nomeCompleto = "Maria Silva" // (E1) falta ';'
-int idade = "35"; // (E2) conversão implícita inválida string³int (CS0029)
-char letraInicial = "M"; // (E3) uso de aspas duplas para char (CS0029)
-double salario = 4_550,75; // (E4) literal numérico inválido com vírgula (CS1003/CS1525)
-Consol.WriteLine("Dados do Funcionário:"); // (E5) identificador incorreto: 'Consol' (CS0103)
-Console.WriteLine(nomecompleto); // (E6) variável inexistente (case-sensitive) (CS0103)
-Console.WriteLine(idade); // (E7) bloqueado pelos erros acima
-Console.WriteLine(letraInicial); // (E8) idem
-Console.WriteLine("Salário: R$ {salario}"); // (E9) falta '$' na interpolação ³ erro lógico (apenas imprime {salario})
-Console.WriteLine("Cálculo estranho: " + (salario / letraInicial)); // (E10) divisão double/char ³ semântica absurda
-if (idade = 35) { // (E11) atribuição em vez de comparação (CS0029)
-Console.WriteLine("Idade confirmada");
-}
-// (E12) possível confusão de cultura ao tentar formatar em outra linha:
-Console.WriteLine(salario.ToString("C2",
-System.Globalization.CultureInfo.GetCultureInfo("en-US"))); // sem valor pedagógico aqui para pt-BR
+﻿using System.Globalization;
+using System.Threading;
+
+// Define a cultura padrão para pt-BR
+Thread.CurrentThread.CurrentCulture = new CultureInfo("pt-BR");
+Thread.CurrentThread.CurrentUICulture = new CultureInfo("pt-BR");
+
+Console.WriteLine("Por favor, digite seu primeiro nome:");
+string primeiroNome = Console.ReadLine() ?? string.Empty;
+Console.WriteLine("Agora, digite sua idade:");
+int idade = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Por fim, digite sua altura em metros (ex: 1,80):");
+float altura = float.Parse(Console.ReadLine()!);
+Console.WriteLine($"Resumo do Cadastro: Nome: {primeiroNome}, Idade: {idade} anos, Altura: {altura}m.");

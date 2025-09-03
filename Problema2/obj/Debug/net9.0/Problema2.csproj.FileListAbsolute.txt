@@ -1,0 +1,15 @@
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/Problema2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/Problema2.AssemblyInfoInputs.cache
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/Problema2.AssemblyInfo.cs
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/Problema2.csproj.CoreCompileInputs.cache
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/Problema2.sourcelink.json
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/bin/Debug/net9.0/Problema2
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/bin/Debug/net9.0/Problema2.deps.json
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/bin/Debug/net9.0/Problema2.runtimeconfig.json
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/bin/Debug/net9.0/Problema2.dll
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/bin/Debug/net9.0/Problema2.pdb
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/Problema2.dll
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/refint/Problema2.dll
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/Problema2.pdb
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/Problema2.genruntimeconfig.cache
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema2/obj/Debug/net9.0/ref/Problema2.dll
