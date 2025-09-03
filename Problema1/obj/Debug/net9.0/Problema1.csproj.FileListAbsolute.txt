@@ -1,0 +1,5 @@
+C:\Users\rodri\OneDrive\Documentos\development\ClinicaDeBugs\Problema1\obj\Debug\net9.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\development\ClinicaDeBugs\Problema1\obj\Debug\net9.0\Problema1.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\development\ClinicaDeBugs\Problema1\obj\Debug\net9.0\Problema1.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\development\ClinicaDeBugs\Problema1\obj\Debug\net9.0\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\development\ClinicaDeBugs\Problema1\obj\Debug\net9.0\Problema1.sourcelink.json
