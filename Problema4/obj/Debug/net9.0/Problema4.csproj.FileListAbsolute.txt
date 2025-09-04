@@ -1,0 +1,15 @@
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/Problema4.GeneratedMSBuildEditorConfig.editorconfig
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/Problema4.AssemblyInfoInputs.cache
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/Problema4.AssemblyInfo.cs
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/Problema4.csproj.CoreCompileInputs.cache
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/Problema4.sourcelink.json
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/bin/Debug/net9.0/Problema4
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/bin/Debug/net9.0/Problema4.deps.json
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/bin/Debug/net9.0/Problema4.runtimeconfig.json
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/bin/Debug/net9.0/Problema4.dll
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/bin/Debug/net9.0/Problema4.pdb
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/Problema4.dll
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/refint/Problema4.dll
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/Problema4.pdb
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/Problema4.genruntimeconfig.cache
+/home/ro/Documents/development/POO/ClinicaDeBugs/Problema4/obj/Debug/net9.0/ref/Problema4.dll
