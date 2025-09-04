@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jVCfe4yRyE=",
+  "success": true,
+  "projectFilePath": "/home/ro/Documents/development/POO/ClinicaDeBugs/Problema10/Problema10.csproj",
+  "expectedPackageFiles": [
+    "/home/ro/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
